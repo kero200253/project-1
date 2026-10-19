@@ -1,0 +1,128 @@
+*{box-sizing: border-box;
+}
+.color {
+background-color: rgb(246, 241, 241);
+padding: 5px;
+}
+
+.header-box{
+color: #f0f0f0;
+background-color: rgb(24, 72, 123);
+}
+.back {
+    background-color: gray;
+}
+.const{
+width: 70%;
+
+border-radius:20px;
+padding: 40px;
+margin: 20px auto;
+
+}
+.information{
+font-size: large;
+
+}
+.information p{
+
+    color: #abb9ff;
+}
+.text-align{
+    text-align: center;
+}
+.button1{
+color: aliceblue;
+background-color: rgba(255, 255, 255, 0.2) ;
+border-radius: 20px;
+border: #f0f0f0 1px solid;
+padding: 10px;
+margin: 5px;
+}
+.colorblue{
+color:rgb(58, 58, 162);
+}
+
+
+.profile_img img{
+width: 200px;
+
+border-radius: 50%;
+}
+.button2{
+    color: aliceblue;
+background-color:rgb(24, 72, 123) ;
+border-radius: 20px;
+border: #f0f0f0 1px solid;
+padding: 20px;
+margin: 10px;
+}
+.profile_img{
+width: 25%;
+float:left;
+padding: 10px;
+
+
+}
+.details{
+float: left;
+width: 75%;
+margin: auto;
+padding: 50px;
+
+}
+.clear{
+    clear: both;
+}
+.about{
+    background-color: rgb(255, 255, 255);
+    border: rgb(140, 136, 136) solid 1px;
+
+}
+.background{
+    background-color:#f0f0f0;
+}
+.course{
+width: 20%;
+float:left;
+padding: 10px;
+border: gray 1px solid;
+text-align: center;
+margin: 20px;
+border-radius: 20%;
+background-color: rgba(240, 248, 255, 0.562);
+}
+.item_img{
+width: 15%;
+float:left;
+
+
+}
+.item_img img{
+width: 100px;
+border: 1px solid rgb(72, 165, 246);
+border-radius: 20%;
+padding: 10px;
+background-color: white;
+}
+.items{
+
+padding: 10px;
+margin: 20px auto;
+background-color: rgba(240, 248, 255, 0.652);
+border-radius: 20px;
+border: #f0f0f0 1px solid;
+border-left: 5px solid rgb(58, 58, 162);
+;
+
+
+}
+.item{
+width: 85%;
+
+
+}
+.end {
+
+    background-color: rgb(4, 4, 46);
+}
